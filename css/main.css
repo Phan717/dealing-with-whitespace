@@ -18,26 +18,19 @@ header h1{
   font-weight: normal;
   padding-bottom: .25rem;
   margin-bottom: 1px;
-  width: 25%;
 }
 
 header > p {
   font-style: italic;
   font-family: Crimson;
   margin-top: 1px;
-  width: 25%;
 }
 
-.box1 {
-  width: 25%;
-}
-
-article .list {
-  width: 25%;
+article ol {
+  width: 75%;
   padding-left: 1.2rem;
 }
 
 blockquote {
-  width: 15%;
   text-indent: -.5em;
 }
