@@ -7,7 +7,7 @@ html {
 }
 
 body {
-  margin: 10px 12px 10 12px;
+  margin: 10px 12px 10px 12px;
   padding-left: 1rem;
   padding-right: 1rem;
 }
@@ -29,7 +29,7 @@ article header p {
 }
 
 article p {
-  margin-top: 30px;
+  margin-top: 20px;
   font-family: "crimson Text";
   color: #222;
 }
@@ -37,11 +37,12 @@ article p {
 article ol {
   width: 75%;
   padding-left: 1.2rem;
+  font-size: 1em;
 }
 
 blockquote {
   color: #999;
-  font-size: 1.125rem;
+  font-size: 1em;
 }
 
 article header {
@@ -50,6 +51,7 @@ article header {
 
 .quote {
   margin: 0;
+  color: #999;
 }
 
 article {
