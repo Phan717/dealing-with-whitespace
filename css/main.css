@@ -29,11 +29,10 @@ article header p {
 }
 
 article p {
-  margin-top: 10px;
+  margin-top: 5px;
   font-family: "crimson Text";
   color: #222;
   margin-bottom: 5px;
-  padding-top: -1rem;
 }
 
 article ol {
