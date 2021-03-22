@@ -7,7 +7,7 @@ html {
 }
 
 body {
-  margin: 5px .5px 15px 1px;
+  margin: 6px .5px 15px 1px;
   padding-left: 1rem;
   padding-right: 1rem;
 }
@@ -45,7 +45,7 @@ blockquote {
   color: #999;
   font-size: 1.125rem;
   margin-left: 1.5rem;
-  margin-top: -.5rem;
+  margin-top: -1rem;
 }
 
 article header {
