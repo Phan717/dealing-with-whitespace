@@ -32,9 +32,9 @@ article p {
   margin-top: 10px;
   font-family: "crimson Text";
   color: #222;
-  margin-bottom: 15px;
-  padding-top: 5px;
-  padding-bottom: 10px;
+  margin-bottom: 5px;
+  padding-top: -1rem;
+  background-color: pink;
 }
 
 article ol {
@@ -47,7 +47,6 @@ blockquote {
   color: #999;
   font-size: 1.125rem;
   margin-left: 1.5rem;
-  margin-top: -1.5rem;
 }
 
 article header {
