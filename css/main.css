@@ -40,7 +40,7 @@ article p {
   margin: 0 0 1.3rem;
 }
 
-article > p: last-child {
+article > p:last-child {
   padding-bottom: 1.3rem;
   border-bottom: 1px soloid solid #999;
 }
