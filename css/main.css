@@ -19,7 +19,7 @@ article {
   padding: 0 1rem;
 }
 
-article h1{
+article h1 {
   margin: 0;
   font-size: 1.5rem;
   font-weight: normal;
@@ -42,7 +42,7 @@ article p {
 
 article > p:last-child {
   padding-bottom: 1.3rem;
-  border-bottom: 1px soloid solid #999;
+  border-bottom: 1px solid #999;
 }
 
 article ol {
@@ -57,14 +57,4 @@ blockquote {
 
 blockquote .quote:first-child {
   margin-left: -.3em;
-}
-
-.quote {
-  margin: 0;
-  color: #999;
-}
-
-article {
-  margin-bottom: 15px;
-  border-bottom: 1px solid #555;
 }
